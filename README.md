@@ -1,0 +1,2 @@
+# LoaderAnimatedLine
+Анимация загрузки
